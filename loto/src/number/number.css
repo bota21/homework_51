@@ -1,17 +1,17 @@
 .wrapper{
     display: flex;
     justify-content: center;
-    }
-    .button{
+}
+.button{
     margin: 50px 43%;
     padding: 10px 30px;
     font-size: 20px;
-    }
-    .wrapper_number{
+}
+.wrapper_number{
     display: flex;
     justify-content: center;
-    }
-    .number{
+}
+.number{
     width: 40px;
     height: 40px;
     border: 2px solid #000;
@@ -22,4 +22,4 @@
     align-items: center;
     font-weight: 900;
     font-size: 25px;
-    }
+}
